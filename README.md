@@ -1,6 +1,4 @@
-## 毕业设计
-
-### 即时通讯软件LightCone
+## 即时通讯软件LightCone
 
 ### 仿WeChat界面设计
 ### 客户端：Qt
